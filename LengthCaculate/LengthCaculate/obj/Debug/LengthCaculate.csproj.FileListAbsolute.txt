@@ -1,0 +1,17 @@
+E:\Source\length\LengthCaculate\LengthCaculate\bin\Debug\LengthCaculate.exe.config
+E:\Source\length\LengthCaculate\LengthCaculate\bin\Debug\input.txt
+E:\Source\length\LengthCaculate\LengthCaculate\bin\Debug\LengthCaculate.exe
+E:\Source\length\LengthCaculate\LengthCaculate\bin\Debug\LengthCaculate.pdb
+E:\Source\length\LengthCaculate\LengthCaculate\bin\Debug\LengthConsoleLab.pdb
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate.csprojResolveAssemblyReference.cache
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\MainWindow.baml
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\MainWindow.g.cs
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\App.g.cs
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate_Content.g.cs
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate_MarkupCompile.cache
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate.g.resources
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate.Properties.Resources.resources
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate.csproj.GenerateResource.Cache
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate.exe
+E:\Source\length\LengthCaculate\LengthCaculate\obj\Debug\LengthCaculate.pdb
+E:\Source\length\LengthCaculate\LengthCaculate\bin\Debug\LengthConsoleLab.exe

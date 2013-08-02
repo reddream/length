@@ -1,0 +1,7 @@
+E:\Source\length\LengthCaculate\LengthConsoleLab\bin\Debug\LengthConsoleLab.pdb
+E:\Source\length\LengthCaculate\LengthConsoleLab\obj\Debug\LengthConsoleLab.csprojResolveAssemblyReference.cache
+E:\Source\length\LengthCaculate\LengthConsoleLab\obj\Debug\LengthConsoleLab.pdb
+E:\Source\length\LengthCaculate\LengthConsoleLab\bin\Debug\input.txt
+E:\Source\length\LengthCaculate\LengthConsoleLab\bin\Debug\LengthConsoleLab.exe.config
+E:\Source\length\LengthCaculate\LengthConsoleLab\bin\Debug\LengthConsoleLab.exe
+E:\Source\length\LengthCaculate\LengthConsoleLab\obj\Debug\LengthConsoleLab.exe
